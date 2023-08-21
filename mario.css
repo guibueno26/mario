@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(90, 85, 86);
+}
+.pagina{
+   background-image: url("cenario.png");
+   background-repeat: no-repeat;
+   background-size: 100%;
+   bottom: 0;
+   color: aliceblue;
+   left: 0;
+   overflow: auto;
+   padding: 3em;
+   position: absolute;
+   text-align: center;
+}
+#fotos{
+    width: 50%;
+    height: 300px;
+}
+.pagina h1 img{
+    width: 30%;
+    height: 300px;
+    float: left;
+}
